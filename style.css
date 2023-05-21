@@ -39,9 +39,8 @@ main {
 .flow-step {
   background-color: #ff9a4b;
   position: absolute;
-}
-
-.flow-step-text {
+  top: 0;
+  left: 0;
   color: white;
 }
 
